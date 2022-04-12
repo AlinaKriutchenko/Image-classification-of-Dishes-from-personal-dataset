@@ -1,3 +1,3 @@
-### Image-classification-of-Dishes-from-personal-dataset
+### Image-classification-of-Dishes-from-personal-dataset (The manually collected dataset)
 
-Dataset contains 2 classes: dishes with food leftovers and full meal.
+The dataset contains 2 classes: dishes with food leftovers and full meal.
